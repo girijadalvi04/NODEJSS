@@ -1,0 +1,6 @@
+readfile :server.js,index.html ,read file in html format then change plain to html
+
+appendfile: index.html, inde.html 
+
+
+readfile: add if(err) throw err 
